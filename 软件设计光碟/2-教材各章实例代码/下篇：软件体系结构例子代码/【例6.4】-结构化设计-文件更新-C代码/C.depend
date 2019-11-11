@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1268374629 source:e:\c\01-oo-legacyfileupdate-0303\c\main.c
+	"funs.h"
+
+1268374571 source:e:\c\01-oo-legacyfileupdate-0303\c\correcty2kerror.c
+	"funs.h"
+
+1268374610 e:\c\01-oo-legacyfileupdate-0303\c\funs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1268375550 source:e:\c\01-oo-legacyfileupdate-0303\c\output.c
+	"funs.h"
+
+1268374558 source:e:\c\01-oo-legacyfileupdate-0303\c\sort.c
+	"funs.h"
+
+1268374714 source:e:\c\01-oo-legacyfileupdate-0303\c\input.c
+	"funs.h"
+
+1268374433 source:e:\c\01-oo-legacyfileupdate-0303\c\correctpoliticalerror.c
+	"funs.h"
+

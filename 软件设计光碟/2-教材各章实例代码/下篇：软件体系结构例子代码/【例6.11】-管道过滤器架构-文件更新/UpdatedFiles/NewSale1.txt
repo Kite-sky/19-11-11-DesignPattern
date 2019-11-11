@@ -1,0 +1,252 @@
+ Television $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-93
+
+ Television $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-93
+
+ Microwave $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-93
+
+ Microwave $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-93
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-93
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-93
+
+ Microwave $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-93
+
+ Microwave $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-93
+
+ Washing Machine $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-93
+
+ Washing Machine $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-93
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-93
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-93
+
+ Washing Machine $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-93
+
+ Washing Machine $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-93
+
+ Television $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-109
+
+ Television $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-109
+
+ Microwave $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-109
+
+ Microwave $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-109
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-109
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-109
+
+ Microwave $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-109
+
+ Microwave $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-109
+
+ Washing Machine $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-109
+
+ Washing Machine $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-109
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-109
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-187
+
+ Washing Machine $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-187
+
+ Washing Machine $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-187
+
+ Television $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-187
+
+ Television $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-187
+
+ Microwave $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-187
+
+ Microwave $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-187
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-187
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-187
+
+ Microwave $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-187
+
+ Microwave $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-187
+
+ Washing Machine $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-187
+
+ Washing Machine $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-187
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-187
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-187
+
+ Washing Machine $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-203
+
+ Washing Machine $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-203
+
+ Television $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-203
+
+ Television $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-203
+
+ Microwave $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-203
+
+ Microwave $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-203
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-203
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-203
+
+ Microwave $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-203
+
+ Microwave $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-203
+
+ Washing Machine $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-250
+
+ Washing Machine $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-250
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-250
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-250
+
+ Washing Machine $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Washing Machine $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-265
+
+ Microwave $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Microwave $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-265
+
+ Microwave $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Microwave $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-265
+
+ Washing Machine $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Washing Machine $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-265
+
+ Washing Machine $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Washing Machine $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-265
+
+ Microwave $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Microwave $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-265
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-265
+
+ Microwave $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-312
+
+ Microwave $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-312
+
+ Washing Machine $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-312
+
+ Washing Machine $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-312
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-328
+
+ Washing Machine $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Washing Machine $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-328
+
+ Television $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Television $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-328
+
+ Microwave $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Microwave $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-328
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-328
+
+ Microwave $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Microwave $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-328
+
+ Washing Machine $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Washing Machine $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-328
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-328
+
+ Washing Machine $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Washing Machine $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-328
+
+ Television $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Television $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-328
+
+ Microwave $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-328
+
+ Microwave $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-375
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-375
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-375
+
+ Microwave $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-375
+
+ Microwave $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-375
+
+ Washing Machine $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-375
+
+ Washing Machine $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-375
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-375
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-375
+
+ Washing Machine $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-375
+
+ Washing Machine $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-375
+
+ Television $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-375
+
+ Television $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-375
+
+ Microwave $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-375
+
+ Microwave $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-375
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-375
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-375
+
+ Microwave $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-375
+
+ Microwave $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-375
+
+ Washing Machine $3800 Japan 1995-12-11 Checked at time 2011-7-7-8-22-36-390
+
+ Washing Machine $3600 Germany 1988-12-01 Checked at time 2011-7-7-8-22-36-390
+
+ Television $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-390
+
+ Television $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-390
+
+ Washing Machine $3800 Republic of China 1995-12-11 Checked at time 2011-7-7-8-22-36-390
+
+ Washing Machine $3300 Germany 1989-02-01 Checked at time 2011-7-7-8-22-36-390
+

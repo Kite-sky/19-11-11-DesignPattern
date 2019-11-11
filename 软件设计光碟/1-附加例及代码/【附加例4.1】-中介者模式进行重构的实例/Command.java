@@ -1,0 +1,7 @@
+
+
+
+
+interface Command {
+    void execute();
+}

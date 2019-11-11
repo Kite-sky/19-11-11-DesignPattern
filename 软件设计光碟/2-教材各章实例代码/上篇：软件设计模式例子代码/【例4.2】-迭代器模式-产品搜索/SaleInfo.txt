@@ -1,0 +1,174 @@
+a100000,Television,Japan,3800,20001201
+a100001,Television,Germany,3600,20001202
+a100002,Television,French,2500,20001202
+a100003,Television,French,1890,20001203
+a100004,Television,England,9898,20001203
+a100005,Television,USA,9998,20001204
+b100001,Microwave Oven,Brazil,1200,20001205
+b100002,Microwave Oven,Korea,1212,20001205
+b100003,Microwave Oven,Japan,1890,20001206
+b100004,Microwave Oven,Korea,1980,20001206
+b100005,Microwave Oven,Japan,1919,20001209
+c100001,Washing Machine,French,5678,20001208
+c100002,Washing Machine,French,6679,20001209
+c100003,Washing Machine,French,7979,20001209
+c100004,Washing Machine,French,6868,20001208
+c100005,Washing Machine,French,7879,20001207
+c100006,Washing Machine,French,7780,20001210
+c100007,Washing Machine,French,9595,20001210
+c100008,Washing Machine,French,8720,20001210
+c100009,Washing Machine,French,2350,20001211
+a100006,Television,China,8888,20001211
+a100007,Television,China,7878,20001211
+a100008,Television,China,5467,20001212
+a100009,Television,China,9873,20001212
+a1000010,Television,China,3254,20001213
+a1000011,Television,China,5639,20001213
+b100006,Microwave Oven,Japan,6677,20001214
+b100007,Microwave Oven,Japan,7776,20001214
+b100008,Microwave Oven,Japan,7373,20001215
+b100009,Microwave Oven,Japan,4455,20001215
+b1000010,Microwave Oven,Japan,3276,20001216
+c1000010,Washing Machine,French,3256,20010110
+c1000011,Washing Machine,French,5656,20010111
+c1000012,Washing Machine,French,5678,20010112
+c1000013,Washing Machine,French,8765,20010113
+c1000014,Washing Machine,French,8866,20010114
+c1000015,Washing Machine,French,7766,20010115
+c1000016,Washing Machine,French,5576,20030810
+c1000017,Washing Machine,French,5656,20040811
+c1000018,Washing Machine,French,5358,20040901
+a1000012,Television,China,8789,20020110,20050901
+a1000013,Television,China,9832,20050902
+a1000014,Television,China,2345,20051001
+a1000015,Television,China,6543,20060901
+a1000016,Television,China,8765,20070601
+a1000017,Television,China,9876,20070601
+b1000011,Microwave Oven,Korea,985,20070601
+b1000012,Microwave Oven,Japan,998,20080701
+b1000013,Microwave Oven,Korea,980,20080702
+b1000014,Microwave Oven,Japan,990,20080721
+b1000015,Microwave Oven,Korea,998,20080722
+b1000016,Microwave Oven,Japan,995,20080725
+b1000017,Microwave Oven,Korea,996,20080728
+b1000018,Microwave Oven,Japan,996,20080730
+b1000011,Microwave Oven,Korea,985,20090601
+b1000012,Microwave Oven,Japan,998,20090701
+b1000013,Microwave Oven,Korea,980,20090702
+b1000014,Microwave Oven,Japan,990,20090721
+b1000015,Microwave Oven,Korea,998,20090722
+b1000016,Microwave Oven,Japan,995,20090725
+b1000017,Microwave Oven,Korea,996,20090728
+b1000018,Microwave Oven,Japan,996,20090730
+b1000011,Microwave Oven,Korea,985,20070601
+b1000012,Microwave Oven,Japan,998,20080701
+b1000013,Microwave Oven,Korea,980,20080702
+b1000014,Microwave Oven,Japan,990,20080721
+b1000015,Microwave Oven,Korea,998,20080722
+b1000016,Microwave Oven,Japan,995,20080725
+b1000017,Microwave Oven,Korea,996,20080728
+b1000018,Microwave Oven,Japan,996,20100730
+b1000011,Microwave Oven,Korea,985,20100601
+b1000012,Microwave Oven,Japan,998,20100701
+b1000013,Microwave Oven,Korea,980,20100702
+b1000014,Microwave Oven,Japan,990,20100721
+b1000015,Microwave Oven,Korea,998,20100722
+b1000016,Microwave Oven,Japan,995,20100725
+b1000017,Microwave Oven,Korea,996,20100728
+b1000018,Microwave Oven,Japan,996,20100730
+b100003,Microwave Oven,Japan,1890,20001206
+b100004,Microwave Oven,Korea,1980,20001206
+b100005,Microwave Oven,Japan,1919,20001209
+c100001,Washing Machine,French,5678,20001208
+c100002,Washing Machine,French,6679,20001209
+c100003,Washing Machine,French,7979,20001209
+c100004,Washing Machine,French,6868,20001208
+c100005,Washing Machine,French,7879,20001207
+c100006,Washing Machine,French,7780,20001210
+c100007,Washing Machine,French,9595,20001210
+c100008,Washing Machine,French,8720,20001210
+c100009,Washing Machine,French,2350,20001211
+a100006,Television,China,8888,20001211
+a100007,Television,China,7878,20001211
+a100008,Television,China,5467,20001212
+a100009,Television,China,9873,20001212
+a1000010,Television,China,3254,20001213
+a1000011,Television,China,5639,20001213
+b100006,Microwave Oven,Japan,6677,20001214
+b100007,Microwave Oven,Japan,7776,20001214
+b100008,Microwave Oven,Japan,7373,20001215
+b100009,Microwave Oven,Japan,4455,20001215
+b1000010,Microwave Oven,Japan,3276,20001216
+c1000010,Washing Machine,French,3256,20010110
+c1000011,Washing Machine,French,5656,20010111
+c1000012,Washing Machine,French,5678,20010112
+c1000013,Washing Machine,French,8765,20010113
+b1000015,Microwave Oven,Korea,998,20080722
+b1000016,Microwave Oven,Japan,995,20080725
+b1000017,Microwave Oven,Korea,996,20080728
+b1000018,Microwave Oven,Japan,996,20100730
+b1000011,Microwave Oven,Korea,985,20100601
+b1000012,Microwave Oven,Japan,998,20100701
+b1000013,Microwave Oven,Korea,980,20100702
+b1000014,Microwave Oven,Japan,990,20100721
+b1000015,Microwave Oven,Korea,998,20100722
+b1000016,Microwave Oven,Japan,995,20100725
+b1000017,Microwave Oven,Korea,996,20100728
+b1000018,Microwave Oven,Japan,996,20100730
+b100003,Microwave Oven,Japan,1890,20001206
+b100004,Microwave Oven,Korea,1980,20001206
+b100005,Microwave Oven,Japan,1919,20001209
+c100001,Washing Machine,French,5678,20001208
+c100002,Washing Machine,French,6679,20001209
+c100003,Washing Machine,French,7979,20001209
+c100004,Washing Machine,French,6868,20001208
+c100001,Washing Machine,French,5678,20001208
+c100002,Washing Machine,French,6679,20001209
+c100003,Washing Machine,French,7979,20001209
+c100004,Washing Machine,French,6868,20001208
+c100005,Washing Machine,French,7879,20001207
+c100006,Washing Machine,French,7780,20001210
+c100007,Washing Machine,French,9595,20001210
+c100008,Washing Machine,French,8720,20001210
+c100009,Washing Machine,French,2350,20001211
+a100001,Television,Germany,3600,20001202
+a100002,Television,French,2500,20001202
+a100003,Television,French,1890,20001203
+a100004,Television,England,9898,20001203
+a100005,Television,USA,9998,20001204
+b100001,Microwave Oven,Brazil,1200,20001205
+b100002,Microwave Oven,Korea,1212,20001205
+b100003,Microwave Oven,Japan,1890,20001206
+b100004,Microwave Oven,Korea,1980,20001206
+b100005,Microwave Oven,Japan,1919,20001209
+c100001,Washing Machine,French,5678,20001208
+c100002,Washing Machine,French,6679,20001209
+c100003,Washing Machine,French,7979,20001209
+c100004,Washing Machine,French,6868,20001208
+c100005,Washing Machine,French,7879,20001207
+c100006,Washing Machine,French,7780,20001210
+c100007,Washing Machine,French,9595,20001210
+c100008,Washing Machine,French,8720,20001210
+c100009,Washing Machine,French,2350,20001211
+a100006,Television,China,8888,20001211
+a100007,Television,China,7878,20001211
+a100008,Television,China,5467,20001212
+a100009,Television,China,9873,20001212
+a1000010,Television,China,3254,20001213
+a1000011,Television,China,5639,20001213
+b100006,Microwave Oven,Japan,6677,20001214
+b100007,Microwave Oven,Japan,7776,20001214
+b100008,Microwave Oven,Japan,7373,20001215
+b100009,Microwave Oven,Japan,4455,20001215
+b1000010,Microwave Oven,Japan,3276,20001216
+c1000010,Washing Machine,French,3256,20010110
+c1000011,Washing Machine,French,5656,20010111
+c1000012,Washing Machine,French,5678,20010112
+c1000013,Washing Machine,French,8765,20010113
+c1000014,Washing Machine,French,8866,20010114
+c1000015,Washing Machine,French,7766,20010115
+c1000016,Washing Machine,French,5576,20030810
+c1000017,Washing Machine,French,5656,20040811
+c1000018,Washing Machine,French,5358,20040901
+a1000012,Television,China,8789,20020110,20050901
+a1000013,Television,China,9832,20050902

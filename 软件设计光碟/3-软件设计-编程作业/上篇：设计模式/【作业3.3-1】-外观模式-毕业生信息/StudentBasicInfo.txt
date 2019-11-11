@@ -1,0 +1,30 @@
+Zeyad Zhang,19900908,1100001,123-91-7747,software,undergraduate
+Hiranlla Zhang, 19910203,1100002,432-90-8976,computer science,graduate
+Andrew Wang, 19921212,1100003,234-90-8765,software,undergraduate   
+Alegna Li, 19890125,1100004,677-87-3456,computer science,graduate
+Barri Li, 19880712,1100005,876-12-5437,computer science,graduate
+Serwaa Zhao, 19890925,1100006,587-09-1084,software,undergraduate
+Timar Huang, 19900922,1100007,378-80-0825,computer science,graduate
+Brittany Zhao, 19901023,1100008,298-09-4949,software,undergraduate
+Marcus Qin, 19901122,1100009,149-95-2368,software,undergraduate
+Janet Fang, 19901010,1100010,956-20-4758,computer science,graduate
+Kehinde Zhou, 19910223,1100011,453-65-5437,computer science,graduate
+Taiwo Qian, 19901110,1100012,996-65-9876,software,undergraduate
+Demi Lu, 19901011,1100013,986-25-6893,computer science,graduate
+Desire Kuang, 19901209,1100014,894-33-2534,computer science,undergraduate
+Katrina Peng, 19900507,1100015,765-09-0023,software,graduate
+Maged Ma, 19900324,1100016,089-476671,computer science,undergraduate
+Ghamdan Mao, 19900425,1100017,987-23-3456,software,graduate
+Renee Zhu, 19900827,1100018,410-20-0037,computer science,undergraduate
+Fatimah Chen, 19900607,1100019,145-34-9827,software,graduate
+Keyaunnah Kang, 19910226,1100020,654-57-9879,computer science,graduate
+Lindsay Yao, 19890328,1100021,257-55-4444,software,undergraduate
+Lee Xie, 19890922,1100022,265-09-4571,software,graduate
+Mark Wang, 19890203,1100023,017-23-5105,software,undergraduate
+Matthew Tang, 19920503,1100024,433-81-7709,computer science,graduate
+Joshua Dongfang, 19901123,1100025,234-09-8484,software,undergraduate
+Noah Ximen, 19900724,1100026,147-23-5183,software,graduate
+Jeremy Miao, 19901211,1100027,023-68-5493,computer science,undergraduate
+Christi Tian, 19900303,1100028,650-55-4891,software,graduate
+Saviel Bai,19921207,1100029,430-59-5735,software,undergraduate
+John Tai,19900908,1100030,541-58-9731,software,graduate
